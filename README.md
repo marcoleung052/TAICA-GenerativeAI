@@ -17,4 +17,4 @@
 | 15 | Fooocus 實作圖像生成 |  |  |  |
 | 16 | 研討會型式的期末專題成果分享 |  |  |  |
 
->> class by https://github.com/yenlung/AI-Demo.git
+class by https://github.com/yenlung/AI-Demo.git
