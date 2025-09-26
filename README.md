@@ -1,8 +1,8 @@
 | Week | Theme | hw | code | other |
 | ----- | ---------- | ---------- | ---------- | ----- |
 | 1 | 課程介紹與生成式AI概述 | 函數圖形 | [hw1](https://github.com/marcoleung052/TAICA-GenerativeAI/blob/c5ee8fce159a5be610ed3c760d2949b00fbaba43/hw1_%E5%87%BD%E6%95%B8%E5%9C%96%E5%BD%A2code.ipynb "游標顯示") | [圖形(動畫)](https://drive.google.com/file/d/1oJBRIQFn2mVZ1RvjriKGZKZdNkc13clj/view?usp=drive_link "游標顯示")
-| 2 | 神經網路的概念 | 神經網路 |  |  |
-| 3 | 生成對抗網路 (GAN) | 認識 Softmax |  |  |
+| 2 | 神經網路的概念 | 神經網路 | [hw2](https://github.com/marcoleung052/TAICA-GenerativeAI/blob/80b82789fff62b2f564cb747f8397ea363c3b123/hw2_DNN.ipynb "游標顯示") |  |
+| 3 | 生成對抗網路 (GAN) | 認識 Softmax | [hw3](https://github.com/marcoleung052/TAICA-GenerativeAI/blob/80b82789fff62b2f564cb747f8397ea363c3b123/hw3_Softmax.ipynb "游標顯示") |  |
 | 4 | 文字生成 AI 與大型語言模型 |  |  |  |
 | 5 | RNN 及 transformers的數學原理 |  |  |  |
 | 6 | 大型語言模型（LLM）的應用及倫理議題的挑戰 |  |  |  |
