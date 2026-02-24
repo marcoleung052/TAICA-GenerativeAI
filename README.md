@@ -11,10 +11,10 @@
 | 9 | 檢索增強生成（RAG）的原理及實作 | 【AI Agents】打造你專屬的超級代理人 | [hw9](https://github.com/marcoleung052/TAICA-GenerativeAI/blob/d50574910165c5f7cf38fadf0a45eb179bb20e95/hw9_AI%E4%BB%A3%E7%90%86%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F_%E8%AD%B0%E8%AB%96%E6%96%87%E7%94%9F%E6%88%90%E5%99%A8Two_Stage_CoT%E7%89%88.ipynb "游標顯示") | [hw9](https://github.com/marcoleung052/TAICA-GenerativeAI/blob/d50574910165c5f7cf38fadf0a45eb179bb20e95/hw9_IAagent_CoT.pdf "游標顯示") |
 | 10 | Agentic AI 與 AI Agents | 利用 Bing 進行文字生圖 |  |  |
 | 11 | 變分自編碼器（VAE）與 Diffusion Models | 用 Fooocus 來創作！ |  |  |
-| 12 | 文字生圖 AI 原理與實作 |  |  |  |
-| 13 | 用 Fooocus 實現 Diffusion Models 的進階技術 |  |  |  |
-| 14 | 生成式 AI 流行工具及應用範例 |  |  |  |
+| 12 | 文字生圖 AI 原理與實作 | 期末專案發想 |  |  |
+| 13 | 用 Fooocus 實現 Diffusion Models 的進階技術 | Nano Banana Pro |  |  |
+| 14 | 生成式 AI 流行工具及應用範例 | NotebookLM 做學習 |  |  |
 | 15 | 生成式 AI 應用與發展趨勢 |  |  |  |
-| 16 | 線上期末專題成果分享 |  |  |  |
+| 16 | 線上期末專題成果分享 | 期末專案 |  |  |
 
 class by https://github.com/yenlung/AI-Demo.git
